@@ -135,7 +135,7 @@ Apply and Save
 Build Now  
 
 ### Find the saved artifact
-And check in Nexus http://<your_ip>:18081/  
+And check in Nexus htp://<youtr_ip>:18081/  
 Login admin and xxxxx 
 Select in the left  Repositories, click on release and browser down to find your war file
 

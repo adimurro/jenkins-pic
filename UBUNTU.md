@@ -8,7 +8,7 @@
    sudo apt-get -y install python3 python3-venv # install python3 and virtualenv
    sudo apt-get -y install build-essential   # need for installing docker-compose
    sudo apt-get -y install python3-dev libxml2-dev libxslt-dev libffi-dev # need for installing docker-compose
-   htop  # check your vm config
+   cd   # check your vm config
    Crtl-c  # exit 
 ``` 
 ### install this repo and docker    
