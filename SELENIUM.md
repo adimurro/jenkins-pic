@@ -21,7 +21,7 @@ Build
 Root POM: pom.xml
 Goals and options: test 
   
-### Post-build Actions   
+### Post-build Actions    
 Select Console ouptut (build log) parsing  
 Tick Mark build Failed on Error  
 Tick Use project rule  
