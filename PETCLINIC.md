@@ -101,7 +101,7 @@ docker build -t petclinic:latest .
  petclinic-docker-test  
  petclinic-jmeter  
  Clich on the tab + in the dashboard screen   
- Enter view name petclinic pipeline 
+ Enter view name petclinic pipeline
  tick build pipeline view  
  press ok   
  Enter petclinic in select initial job   
